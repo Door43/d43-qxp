@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[qxp:home|Door43 (qxp)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-qxp|d43-qxp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-qxp/archive/master.zip|d43-qxp.zip]]
+
+**Recent Changes**
+{{changes>ns = qxp}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/qxp|Ethnologue data]]
+
